@@ -2,8 +2,9 @@
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fill, 284px);
+  grid-template-rows: repeat(auto-fill, 213px);
   grid-gap: 16px;
   padding: 92px 48px;
+  transition: all 1s ease;
 }
