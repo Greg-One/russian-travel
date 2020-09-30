@@ -6,6 +6,9 @@
 }
 
 .header__lang-link:nth-child(1) {
-  padding-right: 18px;
-  text-decoration-line: underline;
+  border-bottom: 1px solid;
+}
+
+.header__lang-link:nth-child(2) {
+  padding-left: 18px;
 }
