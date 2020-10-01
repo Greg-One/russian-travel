@@ -10,3 +10,11 @@
   opacity: 0.5;
   transition: opacity 0.3s ease-in-out;
 }
+
+@media screen and (max-width: 768px) {
+  .place__link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+  }
+}

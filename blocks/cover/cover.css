@@ -16,3 +16,9 @@
     margin: 0;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .cover {
+    max-width: 768px;
+  }
+}
