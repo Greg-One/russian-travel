@@ -1,2 +1,13 @@
 @import url("../footer/__link/footer__link.css");
+@import url("../footer/__links-list/footer__links-list.css");
 @import url("../footer/__copyright/footer__copyright.css");
+
+.footer {
+  width: 100%;
+  max-width: 1184px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 48px;
+  padding-bottom: 24px;
+}
