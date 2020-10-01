@@ -20,3 +20,7 @@
   grid-gap: 40px 48px;
   padding-bottom: 80px;
 }
+
+.place:last-of-type {
+  padding-bottom: 0;
+}

@@ -1,4 +1,10 @@
-@import url("../cover/__title/");
-@import url("../cover/__subtitle/cover__subtitle.css");
 @import url("../cover/__background/cover__background.css");
 @import url("../cover/__overlay/cover__overlay.css");
+@import url("../cover/__title/cover__title.css");
+@import url("../cover/__subtitle/cover__subtitle.css");
+
+.cover {
+  padding: 92px 0 92px;
+  width: 100%;
+  height: 740px;
+}
