@@ -3,3 +3,9 @@
   padding-top: 64px;
   display: flex;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__image {
+    max-width: 928px;
+  }
+}

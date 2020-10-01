@@ -17,3 +17,9 @@
   transition: opacity 0.5s ease-in-out;
   z-index: 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__background {
+        max-width: 1024px;
+    }
+}
