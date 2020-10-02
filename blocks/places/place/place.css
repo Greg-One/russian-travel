@@ -28,6 +28,6 @@
 @media screen and (max-width: 768px) and (min-width: 425px) {
   .place {
     grid-template-columns: 352px 1fr;
-    grid-gap: 28px 48px;
+    grid-gap: 48px 28px;
   }
 }
