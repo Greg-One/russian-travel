@@ -31,3 +31,10 @@
     grid-gap: 48px 28px;
   }
 }
+
+@media screen and (max-width: 425px) and (min-width: 320px) {
+  .place {
+    grid-template-columns: 320px;
+    grid-template-rows: 1fr;
+  }
+}
