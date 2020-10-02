@@ -36,5 +36,7 @@
   .place {
     grid-template-columns: 320px;
     grid-template-rows: 1fr;
+    grid-gap: 32px;
+    padding-bottom: 48px;
   }
 }
