@@ -8,3 +8,9 @@
   text-align: center;
   margin: 245px auto 32px;
 }
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .cover__title {
+    margin: 195px auto 32px;
+  }
+}

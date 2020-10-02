@@ -3,6 +3,7 @@
     url("./_inter/Inter-Black.woff") format("woff"),
     url("./_inter/Inter-Black.ttf") format("truetype");
   font-family: "Inter";
+  font-style: normal;
   font-weight: 900;
 }
 
@@ -11,5 +12,15 @@
     url("./_inter/Inter-Regular.woff") format("woff"),
     url("./_inter/Inter-Regular.ttf") format("truetype");
   font-family: "Inter";
-  font-weight: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("./_inter/Inter-Bold.woff") format("woff2"),
+    url("./_inter/Inter-Bold.woff") format("woff"),
+    url("./_inter/Inter-Bold.ttf") format("truetype");
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
 }

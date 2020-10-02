@@ -3,6 +3,7 @@
 @import url("../intro/__text/intro__text.css");
 
 .intro {
+  width: 100%;
   max-width: 690px;
   margin-left: 148px;
   padding-top: 92px;

@@ -4,6 +4,7 @@
 @import url("../header/__lang-link/_current/header__lang-link_current.css");
 
 .header {
+  width: 100%;
   margin: 0 48px;
   display: flex;
   justify-content: space-between;
