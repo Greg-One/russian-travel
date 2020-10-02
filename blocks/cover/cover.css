@@ -20,6 +20,7 @@
   .cover {
     margin: 92px 0;
     width: 100%;
+    max-width: 1024px;
     max-height: 640px;
   }
 }
