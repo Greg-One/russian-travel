@@ -12,4 +12,4 @@
 
 **Страница размещена на Github Pages**
 
-- [Ссылка на Github Pages](https://greg-one.github.io/russian-travel)
+- [Ссылка на Github Pages](https://greg-one.github.io/russian-travel/index.html)
