@@ -13,6 +13,13 @@
   transition: opacity 0.3s ease-in-out;
 }
 
+@media screen and (max-width: 768px) and (min-width: 425px) {
+  .footer__link {
+    padding-bottom: 32px;
+    display: inline-block;
+  }
+}
+
 @media screen and (max-width: 425px) and (min-width: 320px) {
   .footer__link {
     padding-bottom: 32px;
