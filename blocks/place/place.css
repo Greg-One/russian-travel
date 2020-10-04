@@ -6,14 +6,6 @@
 @import url("../place/__website/place__website.css");
 
 .place {
-  /*  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin-top: 80px; */
-
-  /* Сделал флексом, а сегодня посмотрел вебинар Влада и подумал, что гридом будет проще и лучше */
-
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-rows: 1fr;
