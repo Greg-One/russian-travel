@@ -2,3 +2,10 @@
   opacity: 0.8;
   transition: opacity 0.2s ease-in-out;
 }
+
+@media screen and (max-width: 425px) and (min-width: 320px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}
