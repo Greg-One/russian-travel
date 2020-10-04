@@ -26,6 +26,7 @@
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
     grid-gap: 16px;
     margin: 0 24px;
+    padding-top: 88px;
   }
 }
 
@@ -35,5 +36,6 @@
     grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
     grid-gap: 12px;
     margin: 0 16px;
+    padding-top: 64px;
   }
 }
