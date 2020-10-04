@@ -3,7 +3,7 @@
 @import url("../intro/__text/intro__text.css");
 
 .intro {
-  width: 100%;
+  max-width: 100%;
   max-width: 690px;
   margin-left: 148px;
   padding-top: 92px;
@@ -18,7 +18,7 @@
 @media screen and (max-width: 768px) and (min-width: 425px) {
   .intro {
     max-width: 720px;
-    margin: 0;
+    margin: 0 24px;
   }
 }
 
