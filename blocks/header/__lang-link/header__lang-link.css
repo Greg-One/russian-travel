@@ -3,16 +3,10 @@
   font-size: 24px;
   line-height: 28px;
   color: #fff;
+  padding-right: 18px;
 }
-
-/* хотел реализовать подчеркивание через nth-child, но в чек-листе увидел, что нужен модификатор
-правильно ли я понимаю, что d htfkmyjq cbnefwbb модификатор будет присваиваться текущему языку(через JS?) и переключать underline?
-.header__lang-link:nth-child(1) {
-  text-decoration: underline;
-}
-*/
 
 .header__lang-link:hover {
-  opacity: 0.5;
+  opacity: 0.8;
   transition: opacity 0.3s ease-in-out;
 }
