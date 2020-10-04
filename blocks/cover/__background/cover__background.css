@@ -9,16 +9,3 @@
   height: 100%;
   z-index: 0;
 }
-
-@media screen and (max-width: 1024px) {
-  .cover__background {
-    width: 100%;
-    max-width: 1024px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .cover__background {
-    width: 100%;
-  }
-}
