@@ -7,9 +7,9 @@
   grid-gap: 16px;
   padding: 92px 0;
   max-width: 1184px;
-  width: 100%;
-  transition: all 1s ease;
-  margin: 0 auto;
+  max-width: 100%;
+
+  margin: 0 48px;
 }
 
 @media screen and (max-width: 1024px) and (min-width: 768px) {
@@ -19,6 +19,7 @@
     grid-template-rows: repeat(auto-fit, minmax(225px, 1fr));
     grid-gap: 14px;
     align-items: center;
+    margin: 0 24px;
   }
 }
 
@@ -28,6 +29,7 @@
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
     grid-gap: 16px;
+    margin: 0 24px;
   }
 }
 
@@ -37,5 +39,6 @@
     grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
     max-width: 288px;
     grid-gap: 12px;
+    margin: 0 16px;
   }
 }
