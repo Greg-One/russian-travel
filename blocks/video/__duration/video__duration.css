@@ -7,4 +7,5 @@
   line-height: 13px;
   letter-spacing: 0.3em;
   text-align: left;
+  pointer-events: none;
 }

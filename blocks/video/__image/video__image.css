@@ -1,9 +1,9 @@
-.video__background {
+.video__image {
   position: relative;
   opacity: 0.7;
 }
 
-.video__background:hover {
+.video__image:hover {
   opacity: 0.4;
   transition: opacity 0.3s ease-in-out;
 }
