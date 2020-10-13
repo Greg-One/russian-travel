@@ -1,0 +1,11 @@
+.video__title {
+  position: absolute;
+  margin: 0;
+  max-width: 322px;
+  top: 189px;
+  left: 30px;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 39px;
+  text-align: left;
+}
