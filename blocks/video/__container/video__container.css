@@ -1,6 +1,10 @@
 .video__container {
   padding-top: 72px;
+  margin: 0 auto;
   max-width: 1184px;
-  display: flex;
-  justify-content: space-between;
+  width: 100%;
+  display: grid;
+  /* grid-template-columns: 583px 1fr; */
+  grid-template-columns: repeat(auto-fit, minmax(583px, 1fr));
+  gap: 18px;
 }
