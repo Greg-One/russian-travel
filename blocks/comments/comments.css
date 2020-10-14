@@ -3,3 +3,7 @@
 @import url(../comments/__image/comments__image.css);
 @import url(../comments/__quote/comments__quote.css);
 @import url(../comments/__item/comments__item.css);
+
+.comments {
+  margin: 102px 48px;
+}

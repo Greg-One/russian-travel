@@ -1,5 +1,5 @@
-@import url(../content__title/content__title.css);
-@import url(../content__subtitle/content__subtitle.css);
+@import url(../content/__title/content__title.css);
+@import url(../content/__subtitle/content__subtitle.css);
 @import url(../video/__container/video__container.css);
 @import url(../video/__duration/video__duration.css);
 @import url(../video/__item/video__item.css);
