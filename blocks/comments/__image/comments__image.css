@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 800px) and (min-width: 425px) {
   .comments__image {
-    justify-content: center;
-    align-items: center;
+    order: 1;
+    
   }
 }
