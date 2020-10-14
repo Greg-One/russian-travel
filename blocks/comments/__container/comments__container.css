@@ -3,4 +3,14 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(382px, 1fr));
   gap: 18px;
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) and (min-width: 425px) {
+  .comments__container {
+    grid-template-rows: 1fr;
+    gap: 48px;
+    align-items: center;
+    justify-items: center;
+  }
 }

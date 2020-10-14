@@ -5,3 +5,9 @@
   line-height: 24px;
   text-align: left;
 }
+
+@media screen and (max-width: 800px) and (min-width: 425px) {
+  .comments__quote {
+    text-align: center;
+  }
+}
