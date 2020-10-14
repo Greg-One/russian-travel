@@ -6,8 +6,9 @@
   text-align: left;
 }
 
-@media screen and (max-width: 800px) and (min-width: 425px) {
+@media screen and (max-width: 765px) and (min-width: 320px) {
   .comments__author {
+    margin: 16px auto 24px;
     text-align: center;
     order: 2;
   }
