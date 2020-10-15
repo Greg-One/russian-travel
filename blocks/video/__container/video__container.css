@@ -1,11 +1,11 @@
 .video__container {
+  position: relative;
   padding-top: 72px;
   margin: 0 auto;
   max-width: 1184px;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 583px 1fr;
+  /* display: grid;
   grid-template-columns: repeat(auto-fit, minmax(583px, 1fr));
   gap: 18px;
-  position: relative;
+  position: relative; */
+  display: flex;
 }
