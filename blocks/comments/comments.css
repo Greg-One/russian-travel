@@ -5,11 +5,9 @@
 @import url(../comments/__item/comments__item.css);
 
 .comments {
-  margin: 102px;
+  margin: 102px 48px;
   max-width: 1184px;
   max-width: 100%;
-  margin-right: 48px;
-  margin-left: 48px;
 }
 
 @media screen and (max-width: 1024px) and (min-width: 768px) {
@@ -27,5 +25,6 @@
 @media screen and (max-width: 425px) and (min-width: 320px) {
   .comments {
     max-width: 288px;
+    margin: 64px 16px 48px;
   }
 }
